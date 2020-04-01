@@ -1,1 +1,1 @@
-# CV2019-1_Project
+# Computer Vision UIS 2019-2 Final Project
