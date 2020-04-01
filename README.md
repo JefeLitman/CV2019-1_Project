@@ -28,8 +28,7 @@
 
 - Apoyo al diagnostico de enfermedades motoras como el parkinson.
 
-# ![Video](https://drive.google.com/file/d/1iCdJuqrwivIaD8wUtsxcEV07yJtPkYhN/view?usp=sharing)
-
-# Presentacion
+# Presentacion y Video
 
 Se encuentra en el github con el archivo <u>Proyecto_CV.pdf</u>
+![Video](https://drive.google.com/file/d/1iCdJuqrwivIaD8wUtsxcEV07yJtPkYhN/view?usp=sharing)
